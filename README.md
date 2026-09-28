@@ -17,7 +17,3 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine 5">
 </p>
 
-## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitheleon&layout=compact&theme=default" alt="Top Languages">
-</p>
